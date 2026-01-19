@@ -1,9 +1,9 @@
 # 💫 About Me:
-[cite_start]BTech Computer Science (AI) student at **Shri Vaishnav Institute of Technology & Science** (in collaboration with **IBM**)[cite: 19, 48, 49]. 
+BTech Computer Science (AI) student at **Shri Vaishnav Institute of Technology & Science** (in collaboration with **IBM**). 
 
-[cite_start]I have professional experience as a **Resident Captain** at Stanza Living (7 months) [cite: 33, 34] [cite_start]and served as a **Technical Lead** for Youth Red Cross SVVV[cite: 37]. [cite_start]I also completed a **Web Development Internship** at Future Intern[cite: 40].
+I have professional experience as a **Resident Captain** at Stanza Living (7 months) and served as a **Technical Lead** for Youth Red Cross SVVV. I also completed a **Web Development Internship** at Future Intern.
 
-[cite_start]**Certifications:** Google Cloud (Load Balancing, IAM, Serverless) [cite: 11, 13, 25][cite_start], Azure AI Document Intelligence [cite: 14][cite_start], and Deloitte Data Analytics[cite: 12].
+**Certifications:** Google Cloud (Load Balancing, IAM, Serverless), Azure AI Document Intelligence, and Deloitte Data Analytics.
 
 **Seeking:** Internships or entry-level roles in Software, AI/ML, Cloud, Product, or Operations.
 

@@ -11,7 +11,7 @@ I have professional experience as a **Resident Captain** at Stanza Living (7 mon
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulekh-niwal-kumawat-293a442a3) 
 
 # 🏆 Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=sulekhniwal-star&theme=flat&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=sulekhniwal-star&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sulekhniwal-star&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

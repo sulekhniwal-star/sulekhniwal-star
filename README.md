@@ -15,7 +15,7 @@ I'm a passionate **Computer Science (AI)** student at **Shri Vaishnav Institute 
 - **Technical Lead** @ Youth Red Cross SVVV
   - Team coordination & project management
   
-- **Web Development Intern** @ _(Company Name)_
+- **Web Development Intern** @ Future Intern
   - Full-stack development & client collaboration
 
 ### 🎓 Certifications & Skills

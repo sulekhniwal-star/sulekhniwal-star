@@ -94,12 +94,3 @@ Portfolio / Demos: (add your portfolio link)
     <img src="https://www.gitskins.com/api/section/social?username=sulekhniwal-star&theme=github-dark&email=sulekhniwal%40gmail.com" alt="sulekhniwal-star social section" />
   </picture>
 </p>
-
----
-
-Next steps I can take for you:
-- Add 1-command quickstarts (Docker or shell) for any curated repo.  
-- Insert technical badges (CI status, languages, Docker pulls) and a compact projects table.  
-- Add expected graduation year to Education if you provide it.
-
-Commit: "chore: update README to technical tone; add education and curated projects"

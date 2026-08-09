@@ -1,6 +1,6 @@
 # sulekhniwal-star
 
-> Recruiter-friendly proof of work and contact path — concise, scannable, and ready for hiring conversations.
+> Student & aspiring engineer — technical portfolio and curated projects targeted at internships and junior engineering roles.
 
 <p align="center">
   <picture>
@@ -9,61 +9,84 @@
   </picture>
 </p>
 
-## Quick pitch
-I build reliable, maintainable full‑stack software and ship features that drive business outcomes. I’m focused on clean code, product thinking, and consistent delivery. If you’re hiring for engineering roles (backend, frontend, or full-stack), I’d love to chat.
+## Technical pitch
+I am a student engineer working on full‑stack systems, applied ML, and embedded platforms with an emphasis on reproducible experiments, code quality, and deployable prototypes. I focus on end-to-end engineering: data pipelines, model evaluation, API design, and productionization basics (containerization, CI, monitoring).
 
-- Location: Remote-friendly
-- Role: Full-Stack Engineer
-- Contact: sulekhniwal@gmail.com — mention GitHub
+- Current status: Student — B.Tech in Computer Science & Engineering (AI) at Shri Vaishnav Vidyapeeth Vishwavidyalaya, in collaboration with IBM.  
+- Availability: internships, part-time projects, mentorship.  
+- Contact: sulekhniwal@gmail.com (mention GitHub)
 
 ## Table of contents
-- [What I build](#what-i-build)
-- [Highlights / Projects](#highlights--projects)
-- [Skills & Tech](#skills--tech)
-- [How to evaluate my work](#how-to-evaluate-my-work)
+- [Technical focus](#technical-focus)  
+- [Curated projects](#curated-projects)  
+- [Skills & tooling](#skills--tooling)  
+- [How to evaluate my repos](#how-to-evaluate-my-repos)  
+- [Education](#education)  
 - [Connect](#connect)
-- [Extras](#extras)
 
-## What I build
-I deliver production-ready experiences with a focus on:
-- Scalable backend services (APIs, data modeling, performance)
-- Responsive frontend applications (UX, accessibility, state management)
-- Robust developer workflows (CI/CD, testing, observability)
+## Technical focus
+I emphasize building measurable, maintainable systems that bridge experiments and deployable artifacts:
 
-## Highlights / Projects
-Below are highlighted repositories that best show my skills and impact. Click through to see README, demos, and usage instructions.
+- Architecture & design: API-first services, modular codebases, separation of concerns.  
+- Data & ML: reproducible preprocessing pipelines, eval metrics, baseline models, retrieval and ranking systems.  
+- Engineering practices: unit/integration tests, lightweight CI (GitHub Actions), containerized demos (Docker).  
+- Observability & reliability: basic logging, structured errors, and performance profiling during prototyping.  
+- Embedded systems: low-latency control loops, sensor fusion basics, and hardware/software integration for robotics.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sulekhniwal-star&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=sulekhniwal-star&theme=github-dark" alt="sulekhniwal-star projects section" />
-  </picture>
-</p>
+## Curated projects (technical summaries)
+Each project includes README, architecture notes, and run/demo instructions when available. I can add one-command quickstarts for any project you choose.
 
-Tips for recruiters: Look for projects with clear README steps, screenshots, and tests. If you want one-page summaries of any project, tell me which repo and I’ll add a short summary here.
+1) Fitkarma — Fitness tracker app
+   - Repo: https://github.com/sulekhniwal-star/Fitkarma
+   - Description: Cross-platform fitness app with local persistence and sync primitives. Includes UI components, data models, and a simple backend sync API.  
+   - Tech specifics: Kotlin (Android), MVVM-like architecture, local DB (Room/SQLite), state handling, REST sync endpoints and background job scheduling.
 
-## Skills & Tech
-A selection of technologies I use frequently:
+2) JARVIS-X — Personal AI operating system
+   - Repo: https://github.com/sulekhniwal-star/JARVIS-X-A-Personal-AI-Operating-System
+   - Description: Modular assistant integrating CLI tools, scripts, and lightweight orchestration for automation tasks and knowledge retrieval.  
+   - Tech specifics: Python modules, pluggable adapters for tools/APIs, prompt templates, retrieval pipeline, config-driven task orchestration, and examples for automating workflows.
 
-- Languages: JavaScript/TypeScript, Python, (add others you use)
-- Frontend: React, Next.js, HTML, CSS
-- Backend: Node.js, Express, REST/GraphQL
-- Databases: PostgreSQL, SQLite, Redis
-- DevOps & Tooling: GitHub Actions, Docker, CI/CD, testing (Jest, pytest)
+3) LineFollowerRobot — Arduino line follower
+   - Repo: https://github.com/sulekhniwal-star/LineFollowerRobot
+   - Description: Embedded control project implementing a PID-like behavior for line following with circuit diagrams and calibration notes.  
+   - Tech specifics: Arduino C/C++, sensor calibration routines, motor driver integration, control loop timing constraints, and build instructions.
 
-*This list is generated from my profile/README strategy—if you want exact badges, I can add them.*
+4) DRDO-Expert-Relevancy — Retrieval & relevancy prototype
+   - Repo: https://github.com/sulekhniwal-star/DRDO-Expert-Relevancy
+   - Description: A retrieval prototype for ranking experts/documents given a query, focused on reproducible evaluation.  
+   - Tech specifics: Python data pipelines, text preprocessing, similarity/ranking heuristics, evaluation metrics, and scripts for running experiments reproducibly.
 
-## How to evaluate my work
-1. Read the project's README for goals, scope, and running steps.
-2. Run the included tests or demo locally (most repos include a quickstart).
-3. Inspect commit history for frequency and clarity of messages.
-4. Ask for a short walkthrough or design rationale — I’ll give a 5–10 minute tour of the repo.
+5) linkedin-ai-automation — Automation helpers
+   - Repo: https://github.com/sulekhniwal-star/linkedin-ai-automation
+   - Description: Scripts and helpers to automate templated outreach and profiling tasks with an emphasis on ethical usage and rate limiting.  
+   - Tech specifics: Python scripting, templating, safe-usage patterns, and notes on respecting platform policies.
+
+If you want, I will add a 1-command quickstart for one project (Docker-compose or script) so reviewers can run a demo in under five minutes.
+
+## Skills & tooling
+Project-applied skillset and tools I use:
+
+- Languages: Python, Kotlin, JavaScript/TypeScript  
+- Web & APIs: REST design, lightweight backend services, simple GraphQL patterns  
+- ML & data: data pipelines, vector retrieval concepts, evaluation metrics, experimentation scripts  
+- DevOps: Docker, GitHub Actions (CI), basic container deployment and test automation  
+- Embedded: Arduino, sensor interfacing, motor control, real-time considerations
+
+## How to evaluate my repos (technical checklist)
+- Read the architecture/README for design intent and quickstart steps.  
+- Run provided demos or tests; if missing, open an issue and I’ll add run instructions.  
+- Review experiment notebooks or scripts for reproducibility and metrics.  
+- Inspect CI (where present) for test coverage and linting.  
+- Ask for a short walkthrough — I’ll prepare a technical summary of design decisions and trade-offs.
+
+## Education
+- Shri Vaishnav Vidyapeeth Vishwavidyalaya — B.Tech, CSE (AI) in collaboration with IBM (currently enrolled)
 
 ## Connect
-Email: sulekhniwal@gmail.com
-GitHub: https://github.com/sulekhniwal-star
-LinkedIn: (add your LinkedIn URL here)
-Portfolio / Live demos: (add your portfolio link here)
+Email: sulekhniwal@gmail.com  
+GitHub: https://github.com/sulekhniwal-star  
+LinkedIn: (add your LinkedIn URL)  
+Portfolio / Demos: (add your portfolio link)
 
 <p align="center">
   <picture>
@@ -72,23 +95,11 @@ Portfolio / Live demos: (add your portfolio link here)
   </picture>
 </p>
 
-If you’re a recruiter: include the role, seniority, location, and salary range in your message and I’ll respond with availability.
-
-## Extras
-- Heatmap / contribution calendar is shown below by default in the GitSkins section.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=sulekhniwal-star&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=sulekhniwal-star&theme=github-dark" alt="sulekhniwal-star about section" />
-  </picture>
-</p>
-
 ---
 
-If you want, I can:
-- Add curated project highlights (title, 2-sentence summary, link) for 3–5 repos.
-- Add skill badges and a one-line portfolio link.
-- Produce a printable one-page resume markdown.
+Next steps I can take for you:
+- Add 1-command quickstarts (Docker or shell) for any curated repo.  
+- Insert technical badges (CI status, languages, Docker pulls) and a compact projects table.  
+- Add expected graduation year to Education if you provide it.
 
-Tell me which of the above you want and I’ll update the README accordingly.
+Commit: "chore: update README to technical tone; add education and curated projects"

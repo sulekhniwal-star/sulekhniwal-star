@@ -14,7 +14,7 @@ I am a student engineer working on full‑stack systems, applied ML, and embedde
 
 - Current status: Student — B.Tech in Computer Science & Engineering (AI) at Shri Vaishnav Vidyapeeth Vishwavidyalaya, in collaboration with IBM.  
 - Availability: internships, part-time projects, mentorship.  
-- Contact: sulekhniwal@gmail.com (mention GitHub)
+- Contact: sulekhniwal@gmail.com
 
 ## Table of contents
 - [Technical focus](#technical-focus)  
